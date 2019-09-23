@@ -81,6 +81,17 @@ html
             margin: 20px 0 0 0;
             padding: 0 64px;
 
+            color: #64298C;
+
+            font-size: 4rem;
+            font-weight: 600;
+        }
+
+        h2
+        {
+            margin: 20px 0 0 0;
+            padding: 0 64px;
+
             color: #222222;
 
             font-size: 1.4rem;
